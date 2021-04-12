@@ -1,0 +1,115 @@
+{
+  "version": "v1",
+  "name": "fontless",
+  "type": "varld-fontless-config",
+  "fonts": {
+    "montserrat": {
+      "category": "sans-serif",
+      "id": "montserrat",
+      "name": "Montserrat",
+      "previewVariant": "400"
+    },
+    "poppins": {
+      "category": "sans-serif",
+      "id": "poppins",
+      "name": "Poppins",
+      "previewVariant": "400"
+    },
+    "noto-sans": {
+      "category": "sans-serif",
+      "id": "noto-sans",
+      "name": "Noto Sans",
+      "previewVariant": "400"
+    },
+    "raleway": {
+      "category": "sans-serif",
+      "id": "raleway",
+      "name": "Raleway",
+      "previewVariant": "400"
+    },
+    "nunito": {
+      "category": "sans-serif",
+      "id": "nunito",
+      "name": "Nunito",
+      "previewVariant": "400"
+    },
+    "nunito-sans": {
+      "category": "sans-serif",
+      "id": "nunito-sans",
+      "name": "Nunito Sans",
+      "previewVariant": "400"
+    },
+    "work-sans": {
+      "category": "sans-serif",
+      "id": "work-sans",
+      "name": "Work Sans",
+      "previewVariant": "400"
+    },
+    "inter": {
+      "category": "sans-serif",
+      "id": "inter",
+      "name": "Inter",
+      "previewVariant": "400"
+    },
+    "karla": {
+      "category": "sans-serif",
+      "id": "karla",
+      "name": "Karla",
+      "previewVariant": "400"
+    },
+    "comfortaa": {
+      "category": "display",
+      "id": "comfortaa",
+      "name": "Comfortaa",
+      "previewVariant": "400"
+    },
+    "dm-sans": {
+      "category": "sans-serif",
+      "id": "dm-sans",
+      "name": "DM Sans",
+      "previewVariant": "400"
+    },
+    "questrial": {
+      "category": "sans-serif",
+      "id": "questrial",
+      "name": "Questrial",
+      "previewVariant": "400"
+    },
+    "archivo-narrow": {
+      "category": "sans-serif",
+      "id": "archivo-narrow",
+      "name": "Archivo Narrow",
+      "previewVariant": "400"
+    },
+    "padauk": {
+      "category": "sans-serif",
+      "id": "padauk",
+      "name": "Padauk",
+      "previewVariant": "400"
+    },
+    "nanum-myeongjo": {
+      "category": "serif",
+      "id": "nanum-myeongjo",
+      "name": "Nanum Myeongjo",
+      "previewVariant": "400"
+    },
+    "amatic-sc": {
+      "category": "handwriting",
+      "id": "amatic-sc",
+      "name": "Amatic SC",
+      "previewVariant": "400"
+    },
+    "archivo": {
+      "category": "sans-serif",
+      "id": "archivo",
+      "name": "Archivo",
+      "previewVariant": "400"
+    },
+    "dm-serif-display": {
+      "category": "serif",
+      "id": "dm-serif-display",
+      "name": "DM Serif Display",
+      "previewVariant": "400"
+    }
+  }
+}
